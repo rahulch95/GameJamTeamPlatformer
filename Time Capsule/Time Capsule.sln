@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{95A898D1-DE84-BC02-5321-CFA25A887839}") = "Time Capsule", "Assembly-CSharp.csproj", "{4F5AFA05-F81B-E05F-E3C7-573EF3D49077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F5AFA05-F81B-E05F-E3C7-573EF3D49077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F5AFA05-F81B-E05F-E3C7-573EF3D49077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F5AFA05-F81B-E05F-E3C7-573EF3D49077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F5AFA05-F81B-E05F-E3C7-573EF3D49077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
